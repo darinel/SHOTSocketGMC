@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinSrvcPR", "WinSrvcPR.vbproj", "{536F7DB3-A0B8-4771-A2CF-A160EC322513}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupSocketPR", "..\SetupSocketPR\SetupSocketPR.vdproj", "{A62B4BC9-453B-4454-A2E7-B61C2E0EA3AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536F7DB3-A0B8-4771-A2CF-A160EC322513}.Debug|x86.ActiveCfg = Debug|x86
+		{536F7DB3-A0B8-4771-A2CF-A160EC322513}.Debug|x86.Build.0 = Debug|x86
+		{536F7DB3-A0B8-4771-A2CF-A160EC322513}.Release|x86.ActiveCfg = Release|x86
+		{536F7DB3-A0B8-4771-A2CF-A160EC322513}.Release|x86.Build.0 = Release|x86
+		{A62B4BC9-453B-4454-A2E7-B61C2E0EA3AA}.Debug|x86.ActiveCfg = Debug
+		{A62B4BC9-453B-4454-A2E7-B61C2E0EA3AA}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\bin\Debug\WinSrvcPR.exe
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\bin\Debug\WinSrvcPR.pdb
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\bin\Debug\WinSrvcPR.xml
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\obj\x86\Debug\WinSrvcPR.Resources.resources
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\obj\x86\Debug\WinSrvcPR.ProjectInstaller.resources
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\obj\x86\Debug\WinSrvcPR.exe
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\obj\x86\Debug\WinSrvcPR.xml
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPR\WinSrvcPR\obj\x86\Debug\WinSrvcPR.pdb

@@ -1,0 +1,11 @@
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\bin\Release\WinSvcPV.exe
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\bin\Release\WinSvcPV.pdb
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\bin\Release\WinSvcPV.xml
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\obj\x86\Release\WinSvcPV.Resources.resources
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\obj\x86\Release\WinSvcPV.ProjectInstaller.resources
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\obj\x86\Release\WinSvcPV.exe
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\obj\x86\Release\WinSvcPV.xml
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketPV\WinSvcPV\obj\x86\Release\WinSvcPV.pdb

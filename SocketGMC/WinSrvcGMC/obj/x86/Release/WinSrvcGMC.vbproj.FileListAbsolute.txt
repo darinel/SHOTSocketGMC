@@ -1,0 +1,11 @@
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\bin\Release\WinSrvcGMC.exe
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\bin\Release\WinSrvcGMC.pdb
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\bin\Release\WinSrvcGMC.xml
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\obj\x86\Release\WinSrvcGMC.Resources.resources
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\obj\x86\Release\WinSrvcGMC.ProjectInstaller.resources
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\obj\x86\Release\WinSrvcGMC.exe
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\obj\x86\Release\WinSrvcGMC.xml
+C:\Users\darinelc\MyProjects\SolMelia\SocketAnsi\SocketServices\SocketGMC\WinSrvcGMC\obj\x86\Release\WinSrvcGMC.pdb

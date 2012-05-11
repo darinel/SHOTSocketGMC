@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinSvcPV", "WinSvcPV.vbproj", "{05476660-D5B2-42E6-AD45-BFB2B1F10209}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupSocketPV", "..\SetupSocketPV\SetupSocketPV.vdproj", "{1921BD0D-AEDB-494A-80E9-4F42C6173E61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05476660-D5B2-42E6-AD45-BFB2B1F10209}.Debug|x86.ActiveCfg = Debug|x86
+		{05476660-D5B2-42E6-AD45-BFB2B1F10209}.Debug|x86.Build.0 = Debug|x86
+		{05476660-D5B2-42E6-AD45-BFB2B1F10209}.Release|x86.ActiveCfg = Release|x86
+		{05476660-D5B2-42E6-AD45-BFB2B1F10209}.Release|x86.Build.0 = Release|x86
+		{1921BD0D-AEDB-494A-80E9-4F42C6173E61}.Debug|x86.ActiveCfg = Debug
+		{1921BD0D-AEDB-494A-80E9-4F42C6173E61}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
